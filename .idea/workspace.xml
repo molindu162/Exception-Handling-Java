@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c0eab3-01d0-4f76-bfc3-9f774e2dc7c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception-Handling-Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Re-Throwing Exception/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Re-Throwing Exception/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThrowException/Main1.java" afterDir="false" />
-    </list>
+    <list default="true" id="a2c0eab3-01d0-4f76-bfc3-9f774e2dc7c8" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +58,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688350351384</updated>
-      <workItem from="1688350352833" duration="1741000" />
+      <workItem from="1688350352833" duration="2238000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1688352140739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688352140739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1688352152119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688352152119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1688352231675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688352231675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
